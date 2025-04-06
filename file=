@@ -1,0 +1,6 @@
+public/ma-logo.svg""<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M60 0H0V40H60V0Z" fill="#FF0099"/>
+  <path d="M120 0H60V40H120V0Z" fill="white"/>
+  <path d="M90 10H70V30H90V10Z" fill="#FF0099"/>
+</svg>
+
